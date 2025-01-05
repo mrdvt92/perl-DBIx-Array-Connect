@@ -1,0 +1,12 @@
+MANIFEST
+README.md
+LICENSE
+Changes
+Makefile.PL
+lib/DBIx/Array/Connect.pm
+t/001_load.t
+t/002_connect.t
+t/003_class.t
+t/db-config.ini
+t/004_section_hash.t
+perl-DBIx-Array-Connect.spec
